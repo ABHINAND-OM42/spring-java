@@ -1,0 +1,10 @@
+{ useState } -- > store and remember values,a kind like a variable that can change(hook)
+
+
+component should be start with capital letter. helper fun - no need cap letter
+
+
+axios --> makeing http requests.
+
+
+

@@ -1,0 +1,8 @@
+# Ignore build artifacts and IDE files
+
+build/
+.gradle/
+.mvn/
+.idea/
+*.iml
+.DS_Store
